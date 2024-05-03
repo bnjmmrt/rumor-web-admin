@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'RomieTrial';
+  src: url('/fonts/romie/RomieTrial-Medium.otf') format('medium');
+}
+
+@font-face {
+  font-family: 'AbcDiatype';
+  src: url('/fonts/abc/ABCDiatype-Medium.ttf') format('medium');
+}
+body {
+  font-family: 'RomieTrial', sans-serif;
+}
