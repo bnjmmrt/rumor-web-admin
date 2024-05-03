@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project was built with TypeScript and includes configurations for the following technologies:
+- Husky
+- ESLint
+- Prettier
+- Tailwind CSS
+- lint-staged
+
+## Prerequisites
+
+Before getting started, ensure you have the following software installed on your local machine:
+
+- Node.js
+- npm (Node Package Manager)
+
 ## Getting Started
 
 First, run the development server:
@@ -34,3 +48,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+- Fork the repository
+- Create a new branch for your feature or bug fix
+- Commit your changes with a descriptive messages
+- Push your changes to your forked repository
+- Submit a pull request to the main repository

@@ -27,7 +27,8 @@
     "prettier",
     "@typescript-eslint",
     "react",
-    "react-hooks"
+    "react-hooks",
+    "tailwindcss"
   ],
   "rules": {
     "prefer-const": "warn",
